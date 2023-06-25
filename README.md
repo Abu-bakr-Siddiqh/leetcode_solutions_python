@@ -4,7 +4,7 @@
 
 1. [Problem 1. Two Sum]
 2. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
-3. [Problem 136. Single Number]
+3. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 4. [Problem 867. Transpose Matrix]
 5. [Problem 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/3675363/python-code/)
 6. [Problem 1389. Create Target Array in the Given Order]
