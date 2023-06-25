@@ -3,7 +3,7 @@
 ### Arrays
 
 1. [Problem 1. Two Sum]
-2. [Problem 66. Plus One]
+2. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
 3. [Problem 136. Single Number]
 4. [Problem 867. Transpose Matrix]
 5. [Problem 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/3675363/python-code/)
