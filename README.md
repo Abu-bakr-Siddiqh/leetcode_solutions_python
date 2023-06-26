@@ -6,7 +6,7 @@
 2. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
 3. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 4. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679951/python-code/)
-5. [pROBLEM 1295. Find Numbers with Even Number of Digits]
+5. [Problem 1295. Find Numbers with Even Number of Digits]
 6. [Problem 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/3675363/python-code/)
 7. [Problem 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/solutions/3679965/python-code/)
 8. [Problem 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/3675331/python-code/)
