@@ -15,7 +15,7 @@
 11. [Problem 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/solutions/3675338/python-code/)
 12. [Problem 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/solutions/3683786/python-code/)
 13. [Problem 1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/solutions/3675316/python-code/)
-14. [Problem 1732. Find the Highest Altitude]
+14. [Problem 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/3683801/python-code/)
 15. [Problem 1773. Count Items Matching a Rule]
 16. [Problem 1832. Check if the Sentence Is Pangram]
 17. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673626/python-code/)
