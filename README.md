@@ -2,7 +2,7 @@
 
 ### Arrays
 
-1. [Problem 1. Two Sum]
+1. [Problem 1. Two Sum](https://leetcode.com/problems/two-sum/solutions/3683749/python-code/)
 2. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
 3. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 4. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679951/python-code/)
