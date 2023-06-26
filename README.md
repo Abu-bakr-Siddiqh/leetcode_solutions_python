@@ -16,7 +16,7 @@
 12. [Problem 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/solutions/3683786/python-code/)
 13. [Problem 1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/solutions/3675316/python-code/)
 14. [Problem 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/3683801/python-code/)
-15. [Problem 1773. Count Items Matching a Rule]
+15. [Problem 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/solutions/3683818/python-code/)
 16. [Problem 1832. Check if the Sentence Is Pangram]
 17. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673626/python-code/)
 18. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673640/python-code-with-simple-addittion/)  
