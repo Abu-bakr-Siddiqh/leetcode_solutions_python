@@ -26,5 +26,6 @@
 
 ### Strings
 
-1. [Problem 1528. Shuffle String]
+1. [Problem 709. To Lower Case]
+2. [Problem 1528. Shuffle String]
 
