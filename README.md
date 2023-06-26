@@ -21,4 +21,10 @@
 17. [Problem 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/solutions/3683818/python-code/)
 18. [Problem 1832. Check if the Sentence Is Pangram]
 19. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673626/python-code/)
-20. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673640/python-code-with-simple-addittion/)  
+20. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673640/python-code-with-simple-addittion/)
+
+
+### Strings
+
+1. [Problem 1528. Shuffle String]
+
