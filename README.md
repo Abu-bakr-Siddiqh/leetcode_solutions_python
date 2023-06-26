@@ -13,7 +13,7 @@
 9. [Problem 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/solutions/3675326/python-code/)
 10. [Problem 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/solutions/3673675/pyhton-code/)
 11. [Problem 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/solutions/3675338/python-code/)
-12. [Problem 1572. Matrix Diagonal Sum]
+12. [Problem 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/solutions/3683786/python-code/)
 13. [Problem 1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/solutions/3675316/python-code/)
 14. [Problem 1732. Find the Highest Altitude]
 15. [Problem 1773. Count Items Matching a Rule]
