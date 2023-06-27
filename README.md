@@ -34,5 +34,6 @@
 6. [Problem 1528. Shuffle String]
 7. [Problem 1662. Check If Two String Arrays are Equivalent]
 8. [Problem 1678. Goal Parser Interpretation]
+9. [Problem 1768. Merge Strings Alternately]
 
 
