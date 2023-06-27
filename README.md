@@ -31,5 +31,6 @@
 3. [Problem 1108. Defanging an IP Address]
 4. [Problem 1528. Shuffle String]
 5. [Problem 1662. Check If Two String Arrays are Equivalent]
+6. [Problem 1678. Goal Parser Interpretation]
 
 
