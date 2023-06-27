@@ -28,7 +28,8 @@
 
 1. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687403/python-code/)
 2. [Problem 709. To Lower Case]
-3. [Problem 1528. Shuffle String]
-4. [Problem 1662. Check If Two String Arrays are Equivalent]
-5. [Problem 1108. Defanging an IP Address]
+3. [Problem 1108. Defanging an IP Address]
+4. [Problem 1528. Shuffle String]
+5. [Problem 1662. Check If Two String Arrays are Equivalent]
+
 
