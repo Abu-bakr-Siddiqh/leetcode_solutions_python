@@ -28,8 +28,8 @@
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691189/python-code/)
 2. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687403/python-code/)
-3. [Problem 657. Robot Return to Origin]
-4. [Problem 709. To Lower Case]
+3. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691194/python-code/)
+4. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691202/python-code/)
 5. [Problem 1108. Defanging an IP Address]
 6. [Problem 1309. Decrypt String from Alphabet to Integer Mappin]
 7. [Problem 1528. Shuffle String]
