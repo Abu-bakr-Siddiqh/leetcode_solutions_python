@@ -43,3 +43,8 @@
 1. [Problem 704. Binary Search]
 
 
+### Stacks
+
+1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691189/python-code/)
+
+
