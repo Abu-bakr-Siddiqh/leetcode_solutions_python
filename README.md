@@ -50,7 +50,8 @@
 
 ### Math
 
-1. [Problem 9. Palindrome Number]
+1. [Problem 7. Reverse Integer]
+2. [Problem 9. Palindrome Number]
 
 
 
