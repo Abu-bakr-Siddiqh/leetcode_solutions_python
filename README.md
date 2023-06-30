@@ -43,6 +43,11 @@
 1. [Problem 704. Binary Search]
 
 
+### Math
+
+1. [Problem 9. Palindrome Number]
+
+
 ### Stacks
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691189/python-code/)
