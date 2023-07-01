@@ -38,9 +38,10 @@
 10. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698735/python-code/)
 
 
-### Searching
+### Binary Search
 
-1. [Problem 704. Binary Search]
+1. [Problem 34. Find First and Last Position of Element in Sorted Array]
+2. [Problem 704. Binary Search]
 
 
 ### Stacks
