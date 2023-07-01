@@ -6,7 +6,7 @@
 2. [Problem 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/solutions/3687362/python-code/)
 3. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
 4. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
-5. [Problem 152. Maximum Product Subarray]
+5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705100/python-code/)
 6. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687371/python-code/)
 7. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679951/python-code/)
 8. [Problem 1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/3683733/python-code/)
