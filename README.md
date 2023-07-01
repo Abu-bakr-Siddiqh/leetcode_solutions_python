@@ -41,8 +41,8 @@
 
 ### Binary Search
 
-1. [Problem 34. Find First and Last Position of Element in Sorted Array]
-2. [Problem 704. Binary Search]
+1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705151/python-code/)
+2. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
 
 
 ### Stacks
