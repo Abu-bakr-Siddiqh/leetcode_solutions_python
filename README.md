@@ -42,10 +42,11 @@
 ### Binary Search
 
 1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705151/python-code/)
-2. [Problem 69. Sqrt(x)]
-3. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3708004/python-code/)
-4. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
-5. [Problem 744. Find Smallest Letter Greater Than Target]
+2. [Problem 35. Search Insert Position]
+3. [Problem 69. Sqrt(x)]
+4. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3708004/python-code/)
+5. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
+6. [Problem 744. Find Smallest Letter Greater Than Target]
 
 
 ### Stacks
