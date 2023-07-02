@@ -28,15 +28,16 @@
 ### Strings
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691189/python-code/)
-2. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687403/python-code/)
-3. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691194/python-code/)
-4. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691202/python-code/)
-5. [Problem 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/solutions/3691215/python-code/)
-6. [Problem 1309. Decrypt String from Alphabet to Integer Mappin](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/3698692/python-code/)
-7. [Problem 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/3698702/python-code/)
-8. [Problem 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/3698710/python-code/)
-9. [Problem 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/solutions/3698721/python-code/)
-10. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698735/python-code/)
+2. [Problem 58. Length of Last Word]
+3. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687403/python-code/)
+4. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691194/python-code/)
+5. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691202/python-code/)
+6. [Problem 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/solutions/3691215/python-code/)
+7. [Problem 1309. Decrypt String from Alphabet to Integer Mappin](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/3698692/python-code/)
+8. [Problem 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/3698702/python-code/)
+9. [Problem 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/3698710/python-code/)
+10. [Problem 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/solutions/3698721/python-code/)
+11. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698735/python-code/)
 
 
 ### Binary Search
