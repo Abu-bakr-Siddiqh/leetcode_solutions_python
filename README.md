@@ -8,7 +8,7 @@
 4. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705100/python-code/)
 6. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687371/python-code/)
-7. [Problem 287. Find the Duplicate Number]
+7. [Problem 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/solutions/3710827/python-code/)
 8. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679951/python-code/)
 9. [Problem 1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/3683733/python-code/)
 10. [Problem 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/3675363/python-code/)
