@@ -7,7 +7,7 @@
 3. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679900/python-code/)
 4. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705100/python-code/)
-6. [Problem 169. Majority Element]
+6. [Problem 169. Majority Element](https://leetcode.com/problems/majority-element/solutions/3715674/python-code/)
 7. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687371/python-code/)
 8. [Problem 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/solutions/3710827/python-code/)
 9. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679951/python-code/)
@@ -66,7 +66,7 @@
 ### Bit Manipulation
 
 1. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
-2. [Problem 201. Bitwise AND of Numbers Range]
+2. [Problem 201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/3715666/python-code/)
 
 
 
