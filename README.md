@@ -47,11 +47,11 @@
 1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705151/python-code/)
 2. [Problem 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/solutions/3710847/python-code/)
 3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3710867/python-code/)
-4. [Problem 162. Find Peak Element]
+4. [Problem 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/3716227/python-code/)
 5. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3708004/python-code/)
 6. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
 7. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710882/python-code/)
-8. [Problem 852. Peak Index in a Mountain Array]
+8. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716235/python-code/)
 
 
 ### Stacks
