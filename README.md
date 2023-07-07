@@ -65,6 +65,7 @@
 
 1. [Problem 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/solutions/3706200/python-code/)
 2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706216/python-code/)
+3. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730785/python-code/)
 
 
 ### Bit Manipulation
