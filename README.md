@@ -51,11 +51,12 @@
 3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3710867/python-code/)
 4. [Problem 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/3716227/python-code/)
 5. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730867/python-code/)
-6. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730801/python-code/)
-7. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3708004/python-code/)
-8. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
-9. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710882/python-code/)
-10. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716235/python-code/)
+6. [Problem 326. Power of Three]
+7. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730801/python-code/)
+8. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3708004/python-code/)
+9. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705171/python-code/)
+10. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710882/python-code/)
+11. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716235/python-code/)
 
 
 ### Stacks
@@ -69,7 +70,8 @@
 2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706216/python-code/)
 3. [Problem 50. Pow(x, n)](https://leetcode.com/problems/powx-n/solutions/3734195/python-code/)
 4. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730884/python-code/)
-5. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730785/python-code/)
+5. [Problem 326. Power of Three]
+6. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730785/python-code/)
 
 
 ### Bit Manipulation
