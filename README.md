@@ -27,6 +27,7 @@
 23. [Problem 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/3687390/python-code/)
 24. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673626/python-code/)
 25. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673640/python-code-with-simple-addittion/)
+26. [Problem 2574. Left and Right Sum Differences]
 
 
 ### Strings
