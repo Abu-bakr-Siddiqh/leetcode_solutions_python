@@ -80,6 +80,7 @@
 
 1. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679923/python-code/)
 2. [Problem 201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/3715666/python-code/)
+3. [Problem 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/solutions/3765014/python-code/)
 
 
 ### Recursion
