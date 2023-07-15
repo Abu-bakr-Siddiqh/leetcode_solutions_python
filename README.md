@@ -74,6 +74,7 @@
 5. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739485/python-code/)
 6. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730785/python-code/)
 7. [Problem 1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/description/)
+8. [Problem 2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/solutions/3769429/python-code/)
 
 
 ### Bit Manipulation
