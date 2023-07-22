@@ -45,6 +45,7 @@
 11. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698735/python-code/)
 12. [Ptroblem 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/solutions/3798006/python-code/)
 13. [Problem 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/solutions/3783373/python-code/)
+14. [Problem 2710. Remove Trailing Zeros From a String]
 
 
 ### Binary Search
