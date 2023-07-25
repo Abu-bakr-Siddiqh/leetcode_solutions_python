@@ -9,7 +9,7 @@
 5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705100/python-code/)
 6. [Problem 169. Majority Element](https://leetcode.com/problems/majority-element/solutions/3715674/python-code/)
 7. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687371/python-code/)
-8. [Problem 283. Move Zeroes]
+8. [Problem 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/3815178/python-code/)
 9. [Problem 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/solutions/3710827/python-code/)
 10. [Problem 344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/3727991/python-code/)
 11. [Problem 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/solutions/3721255/python-code/)
