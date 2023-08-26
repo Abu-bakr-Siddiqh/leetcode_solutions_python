@@ -34,7 +34,7 @@
 ### Strings
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691189/python-code/)
-2. [Problem 43. Multiply Strings]
+2. [Problem 43. Multiply Strings](https://leetcode.com/problems/multiply-strings/solutions/3961451/python-code/)
 3. [Problem 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/3710838/python-code/)
 4. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687403/python-code/)
 5. [Problem 151. Reverse Words in a String]
